@@ -22,7 +22,7 @@ void loop (){
     
     //this loop function goes very fast, so let slow it down
 
-    sleep (1000);
+    delay (1000);
 
     // It's done.
 }
